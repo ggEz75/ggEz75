@@ -12,7 +12,7 @@
 
 ---
 
-### 📊 Estadísticas
+## 📊 Estadísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ggEz75&show_icons=true&theme=tokyonight)
 
