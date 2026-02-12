@@ -1,6 +1,17 @@
 # 👋 Hola, soy Guille
-
-## 🚀 Desarrollador Full Stack
+Desarrollador Full Stack con enfoque en aplicaciones
+web modernas, especializado en el ecosistema
+JavaScript/TypeScript. Trabajo con frameworks como
+Next.js y React para el frontend, junto con Node.js y
+bases de datos relacionales para el desarrollo backend,
+priorizando la escalabilidad, seguridad y rendimiento de
+las aplicaciones.
+Tengo experiencia integrando servicios de autenticación,
+despliegue en la nube y desarrollo de soluciones que
+incorporan inteligencia artificial y automatización de
+procesos. Me interesa especialmente el diseño de
+arquitecturas mantenibles, el uso eficiente de recursos y
+la aplicación de buenas prácticas de desarrollo.
 
 ## 🛠 Tecnologías
 
